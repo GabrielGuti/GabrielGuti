@@ -20,6 +20,7 @@
               <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt= "html" width="40"></img>
               <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" alt="css" width="40"></img>
               <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="40"></img>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt = 'react' width = '40'/></img>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt ="git" width="40"></img>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40"></img>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"></img>
